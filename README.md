@@ -26,7 +26,7 @@ Algunos de los proyectos en los que he trabajado:
 
 ## 📬 Contacto
 
-- **Correo electrónico**: ivan@correo.com
+- **Correo electrónico**: ivan_schwab@outlook.com
 - **LinkedIn**: [LinkedIn de Iván Schwab](https://www.linkedin.com/in/iv%C3%A1n-schwab/)
 - **GitHub**: [Mi perfil de GitHub](https://github.com/IvanSchwab)
 
