@@ -1,6 +1,6 @@
 # ¡Hola, soy Iván Schwab! 👋
 
-Soy **desarrollador de software** y **analista de sistemas**, graduado como **Técnico en Análisis de Sistemas**. Me especializo en el desarrollo de **aplicaciones web** utilizando tecnologías como **React**, **TypeScript** y **C#**. Siempre busco mejorar mis habilidades y resolver problemas complejos con soluciones creativas.
+Soy **desarrollador de software** y **analista de sistemas**, graduado como **Técnico en Análisis de Sistemas**. Me especializo en el desarrollo de **aplicaciones web** utilizando tecnologías como **React**, **TypeScript** y **Java**. Siempre busco mejorar mis habilidades y resolver problemas complejos con soluciones creativas.
 
 ## 🚀 ¿Qué hago?
 
@@ -11,10 +11,12 @@ Soy **desarrollador de software** y **analista de sistemas**, graduado como **T�
 
 ## 🛠️ Tecnologías que manejo
 
-- **Frontend**: React, TypeScript, HTML, CSS (Tailwind CSS, Styled Components)
-- **Backend**: C#, Node.js, Express, API RESTful
-- **Bases de datos**: MySQL, PostgreSQL
-- **Herramientas**: Git, GitHub, Docker, Visual Studio Code
+- **Lenguajes de programación**: Java, TypeScript, JavaScript, PHP, C#, Kotlin
+- **Frontend**: HTML5, CSS3, Tailwind CSS, React, Vue.js, Figma (diseño UI)
+- **Backend**: Node.js, integración de APIs REST, JWT, Auth0
+- **Bases de datos**: SQL (MySQL) - NoSQL (MongoDB)
+- **Herramientas**: Git, GitHub, Visual Studio, Visual Studio Code, Eclipse, Postman
+- **Arquitectura y diseño de software**:Programación Orientada a Objetos (POO), patrones de diseño, diagramas UML
 
 ## 📂 Mis Proyectos
 
@@ -26,7 +28,8 @@ Algunos de los proyectos en los que he trabajado:
 
 ## 🎓 Educación  
 
-- **Técnico en Análisis de Sistemas** – [ORT Argentina] (2022-2024)  
+- **Ingeniería en Informática** – [UADE] (2025) en curso  
+- **Análista de Sistemas** – [ORT Argentina] (2022-2024)  
 - **Inglés** – Nivel [B2]
 
 ## 📬 Contacto
